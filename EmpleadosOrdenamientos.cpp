@@ -1,5 +1,3 @@
-//De la Paz Mendoza Ian ALexandro. 25A.
-//Clases y objetos.
 
 #include <iostream>
 #include <string>
